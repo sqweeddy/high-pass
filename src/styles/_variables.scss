@@ -1,0 +1,16 @@
+$containerMaxWidth: 1350px;
+$containerPadding: 0 30px;
+$gutter: 30px;
+
+$mainBlackColor: #202020;
+$backgroundColor: #E5E5E5;
+$mainTextWhite: #fff;
+$mainOrangeColor: #FF6E30;
+$hardOrange: #CE4307;
+$mediumOrange: #BC572B;
+
+
+@media (max-width: 1024px) {
+  $containerMaxWidth: 1023px;
+  $containerPadding: 0 30px 31px;
+}
